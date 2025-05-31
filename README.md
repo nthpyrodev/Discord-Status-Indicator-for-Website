@@ -13,7 +13,7 @@ A simple Node.js project that runs a Discord bot to monitor your Discord online/
 ## Requirements
 
 - Node.js 18 or higher
-- Discord.JS, Express
+- Discord.JS, Express, dotenv
 - Nginx
 
 ## Setup
@@ -28,7 +28,7 @@ cd Discord-Status-Indicator-for-Website
 ### Install dependencies
 
 ```bash
-npm install
+npm install discord.js express dotenv
 ```
 
 ### Configure your environment
